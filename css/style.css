@@ -1,0 +1,45 @@
+footer {
+  background-color: lightpink;
+}
+footer div a {
+  text-decoration: none;
+}
+footer div img {
+  width: 30px;
+  opacity: 0.5;
+}
+footer h3 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  padding: 0;
+}
+
+body h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: beige;
+  text-align: center;
+}
+body section {
+  padding: 50px;
+}
+
+body h1 {
+  padding: 0;
+  margin: 0;
+}
+
+body section {
+  background-color: lightgray;
+}
+body section div a {
+  color: white;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body h2 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  background-color: lightgray;
+  padding: 0 0 0 20px;
+  margin: 0;
+}
+
+/*# sourceMappingURL=style.css.map */
